@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebBrawser</string>
+    <string name="url_enter">Введите адрес сайта</string>
+    <string name="url_error">Не правильный адрес страницы</string>
+    <string name="bt_back_text">Назад</string>
+    <string name="bt_forward_text">Вперед</string>
+</resources>

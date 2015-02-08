@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebBrawser</string>
+    <string name="url_enter">Enter the site address</string>
+    <string name="url_error">Not the correct address of the page</string>
+    <string name="bt_back_text">Back</string>
+    <string name="bt_forward_text">Forward</string>
+</resources>
